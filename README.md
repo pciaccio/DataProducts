@@ -1,7 +1,8 @@
 # DataProducts
 
 The Final Presentation is found in: https://pciaccio.github.io/DataProducts/Presentation.html#/
-The Final App is found in
+
+The Final App is found in: https://pciaccio.shinyapps.io/Harder_Weight/
 
 ## Developing Data Products Final Project
 
